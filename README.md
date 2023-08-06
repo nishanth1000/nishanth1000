@@ -1,7 +1,40 @@
-### Hi there 👋
-[![Nishanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanth1000)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there, I'm [Nishanth K](https://nishanth1000.github.io/) 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanth1000)](https://github.com/anuraghazra/github-readme-stats)
+I am a fourth year CSE Student at [Amrita Vishwa Vidyapeetham, Coimbatore](https://www.amrita.edu/). Apart from that I am a Flutter developer who loves to create mobile apps.
+
+
+**My Area's of Interest**:
+- Flutter
+- Cryptography
+- Machine Learning
+
+#
+  
+#### Languages and Tools:
+
+<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="C" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="Dart" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />
+<img align="left" alt="Flutter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<img align="left" alt="Firebase" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+<img align="left" alt="Django" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+<img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+
+<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Android Studio" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+<img align="left" alt="JetBrains" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
+<img align="left" alt="PyCharm" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
+<img align="left" alt="VSCode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Anaconda" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />
+<br />         
+
+#
+          
+#### Github Profile Trophy
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=nishanth1000&count_private=true&include_all_commits=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanth1000&layout=compact&theme=dark" />
+</div>
 
 <!--
 **nishanth1000/nishanth1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
