@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Nishanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanth1000)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nishanth1000/nishanth1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
