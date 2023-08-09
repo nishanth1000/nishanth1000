@@ -26,15 +26,7 @@ I am a fourth year CSE Student at [Amrita Vishwa Vidyapeetham, Coimbatore](https
 <img align="left" alt="PyCharm" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
 <img align="left" alt="VSCode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Anaconda" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />
-<br />         
-
-#
-          
-#### Github Profile Trophy
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=nishanth1000&count_private=true&include_all_commits=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanth1000&layout=compact&theme=dark" />
-</div>
+       
 
 <!--
 **nishanth1000/nishanth1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
